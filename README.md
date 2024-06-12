@@ -269,3 +269,5 @@ The Facebook Clone project aims to replicate core functionalities of the popular
  * @access Login required
  */
 ```
+
+The frontend for this project is stored here: https://github.com/QuynhM/SocialConnect-FE
